@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Ramin, a software developer passionate about creating elegant solutions to real-world problems.<br><br>🌐 Website: EV explorer hub<br><br>Technologies I Love<br>🚀 JavaScript | Python | C++<br><br>What I'm Working On<br>🔭 Currently, I'm a CS student and contributing to open-source projects.<br><br>"The only way to do great work is to love what you do." - Steve Jobs
+👋 Hi there! I'm Ramin, a software developer passionate about creating elegant solutions to real-world problems.<br><br><br>Technologies I Love<br>🚀 JavaScript | Python | C++<br><br>What I'm Working On<br>🔭 Currently, I'm a CS student and contributing to open-source projects.<br><br>"The only way to do great work is to love what you do." - Steve Jobs
 
 
 ## 🌐 Socials:
