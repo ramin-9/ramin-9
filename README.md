@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Ramin, a software developer passionate about creating elegant solutions to real-world problems.<br><br><br>Technologies I Love<br>🚀 JavaScript | Python | C++<br><br>What I'm Working On<br>🔭 Currently, I'm a CS student and contributing to open-source projects.<br><br>"The only way to do great work is to love what you do." - Steve Jobs
+👋 Hi there! I'm Ramin, a software developer passionate about creating elegant solutions to real-world problems.<br><br><br>Technologies I Love<br>🚀 JavaScript | Python | C++<br><br>What I'm Working On<br>🔭 Currently, I'm a graduate of bachelor of information and comunication technology and contributing to open-source projects.<br><br>"The only way to do great work is to love what you do." - Steve Jobs
 
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ramin-9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
